@@ -1,4 +1,36 @@
 -------------------------------------------------------------------------------
 Test set: Maven_May.MayMAven.Test_1
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.944 s - in Maven_May.MayMAven.Test_1
+Tests run: 12, Failures: 1, Errors: 0, Skipped: 11, Time elapsed: 5.399 s <<< FAILURE! - in Maven_May.MayMAven.Test_1
+Maven_May.MayMAven.Test_1.BC  Time elapsed: 5.098 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+unknown error: cannot find Chrome binary
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-M7E66H8V', ip: '192.168.43.69', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00C5C013+2474003]
+	Ordinal0 [0x00BF29C1+2042305]
+	Ordinal0 [0x00B02F68+1060712]
+	Ordinal0 [0x00B1C626+1164838]
+	Ordinal0 [0x00B1AA83+1157763]
+	Ordinal0 [0x00B4A2A2+1352354]
+	Ordinal0 [0x00B48FAA+1347498]
+	Ordinal0 [0x00B466DB+1337051]
+	Ordinal0 [0x00B23427+1192999]
+	Ordinal0 [0x00B242EE+1196782]
+	Ordinal0 [0x00B24279+1196665]
+	GetHandleVerifier [0x00DE96FC+1590332]
+	GetHandleVerifier [0x00E98614+2306900]
+	GetHandleVerifier [0x00CE9E93+543699]
+	GetHandleVerifier [0x00CE92CE+540686]
+	Ordinal0 [0x00BF86BA+2066106]
+	Ordinal0 [0x00BFD1C8+2085320]
+	Ordinal0 [0x00BFD308+2085640]
+	Ordinal0 [0x00C067F3+2123763]
+	BaseThreadInitThunk [0x76E9FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77447A4E+286]
+	RtlGetAppContainerNamedObjectPath [0x77447A1E+238]
+
+	at Maven_May.MayMAven.Test_1.BC(Test_1.java:19)
+

@@ -7,12 +7,16 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
+import org.testng.reporters.jq.Main;
 
-public class Test_1 {
+public class Test_1 extends Class2 {
 
+	
 @BeforeClass
+
       public void BC()
       {
+	Class2.main();
 	    System.out.println("----------Before Class Running");
       }
 @BeforeMethod
