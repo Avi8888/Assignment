@@ -48,8 +48,8 @@
           <artifactId>maven-surefire-plugin</artifactId>
           <version>3.0.0-M5</version>
            <configuration>
-            <suiteXmlFile>testng.xml</suiteXmlFile>
-              <suiteXmlFile>T1.xml</suiteXmlFile>
+            
+              <suiteXmlFile>testng.xml</suiteXmlFile>
         </configuration>
         </plugin>
   
