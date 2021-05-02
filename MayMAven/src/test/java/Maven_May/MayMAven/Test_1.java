@@ -17,7 +17,7 @@ public class Test_1 extends Class2 {
       public void BC()
       {
 	//Class2.main();
-	    System.out.println("----------Before Class Running");
+	    System.out.println("--WELCOME--------Before Class Running");
       }
 @BeforeMethod
 	public void BM()
