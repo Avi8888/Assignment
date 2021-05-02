@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test thread-count="1" verbose="0" name="Surefire test(failed)">
+    <classes>
+      <class name="Maven_May.MayMAven.Test_1">
+        <methods>
+          <include name="AT"/>
+          <include name="BT"/>
+          <include name="AC"/>
+          <include name="BC"/>
+          <include name="main"/>
+          <include name="Test1"/>
+          <include name="Test2"/>
+          <include name="AM"/>
+          <include name="BM"/>
+        </methods>
+      </class> <!-- Maven_May.MayMAven.Test_1 -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->
