@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="106735" started-at="2021-06-02T12:23:09Z" finished-at="2021-06-02T12:24:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="106735" started-at="2021-06-02T12:23:09Z" finished-at="2021-06-02T12:24:56Z">
+      <class name="K_Assignment.Mail.Gmail_Test">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:K_Assignment.Mail.Gmail_Test@29774679]" name="beforeClass" is-config="true" duration-ms="13069" started-at="2021-06-02T12:23:09Z" finished-at="2021-06-02T12:23:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Verify_Login_Page()[pri:0, instance:K_Assignment.Mail.Gmail_Test@29774679]" name="Verify_Login_Page" duration-ms="37511" started-at="2021-06-02T12:23:22Z" finished-at="2021-06-02T12:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Login_Page -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:K_Assignment.Mail.Gmail_Test@29774679]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-06-02T12:23:22Z" finished-at="2021-06-02T12:23:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:K_Assignment.Mail.Gmail_Test@29774679]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-06-02T12:24:00Z" finished-at="2021-06-02T12:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:K_Assignment.Mail.Gmail_Test@29774679]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2021-06-02T12:24:00Z" finished-at="2021-06-02T12:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Verify_Compose_Page()[pri:1, instance:K_Assignment.Mail.Gmail_Test@29774679]" name="Verify_Compose_Page" duration-ms="9567" started-at="2021-06-02T12:24:00Z" finished-at="2021-06-02T12:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Compose_Page -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:K_Assignment.Mail.Gmail_Test@29774679]" name="afterMethod" is-config="true" duration-ms="2" started-at="2021-06-02T12:24:09Z" finished-at="2021-06-02T12:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="Verify_MSg_Page()[pri:2, instance:K_Assignment.Mail.Gmail_Test@29774679]" name="Verify_MSg_Page" duration-ms="40702" started-at="2021-06-02T12:24:09Z" finished-at="2021-06-02T12:24:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_MSg_Page -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:K_Assignment.Mail.Gmail_Test@29774679]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-06-02T12:24:09Z" finished-at="2021-06-02T12:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:K_Assignment.Mail.Gmail_Test@29774679]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-06-02T12:24:50Z" finished-at="2021-06-02T12:24:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:K_Assignment.Mail.Gmail_Test@29774679]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-06-02T12:24:50Z" finished-at="2021-06-02T12:24:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Verify_MsgBody_Page()[pri:3, instance:K_Assignment.Mail.Gmail_Test@29774679]" name="Verify_MsgBody_Page" duration-ms="5812" started-at="2021-06-02T12:24:50Z" finished-at="2021-06-02T12:24:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_MsgBody_Page -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:K_Assignment.Mail.Gmail_Test@29774679]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-06-02T12:24:56Z" finished-at="2021-06-02T12:24:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:K_Assignment.Mail.Gmail_Test@29774679]" name="afterClass" is-config="true" duration-ms="1" started-at="2021-06-02T12:24:56Z" finished-at="2021-06-02T12:24:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- K_Assignment.Mail.Gmail_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
