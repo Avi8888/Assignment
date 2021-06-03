@@ -24,10 +24,10 @@ public class com_Login_Page extends Base {
 		System.out.println("Login page open in POM");
 		Thread.sleep(4000);
 		//Email.click();
-	Email.sendKeys("nimbalkaravinash@ymail.com");
+	Email.sendKeys("xyz@ymail.com");
 	Staysignin.click();
 	NextBtn.click();
-	PW.sendKeys("Avi@8888286125");
+	PW.sendKeys("Enter Password Here");
 	PWNextBtn.click();
 	
 	}
