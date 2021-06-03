@@ -34,7 +34,7 @@ public class com_Home_Page extends Base {
 	{
 
 		Compose.click();
-		To.sendKeys("nimbalkaravinash@ymail.com");
+		To.sendKeys("xyz@ymail.com");
 		Sub.sendKeys("Test-Mail");
 		Body.sendKeys("Test Email Body");
 		Send.click();
